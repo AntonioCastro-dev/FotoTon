@@ -6,7 +6,7 @@ Esta es una aplicación móvil desarrollada con React Native que permite a los u
 ## Requisitos
 ---
 - [Node.js](https://nodejs.org/) (versión 14.x o superior)
-- [npm](https://www.npmjs.com/) (viene incluido con Node.js)
+- [npm](https://nodejs.org/) (viene incluido con Node.js)
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) (versión 11 o superior)
 - [Android Studio](https://developer.android.com/studio) con un emulador configurado (o un dispositivo físico)
 
