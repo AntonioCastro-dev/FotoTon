@@ -16,12 +16,18 @@ Sigue estos pasos para clonar el repositorio e instalar las dependencias:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/AntonioCastro-dev/FotoTon
+   cd FotoTon/FotoTon
    ```
 
 2. **Instala las dependencias**:
    Ejecuta el siguiente comando para instalar las bibliotecas necesarias:
    ```bash
    npm install
+   ```
+
+3. **Inicia la aplicación en tu emulador**:
+   Ejecuta el siguiente comando para iniciar el proyecto en tu emulador de android studio:
+   ```bash
+   npm run android
    ```
